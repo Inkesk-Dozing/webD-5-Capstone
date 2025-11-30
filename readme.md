@@ -25,11 +25,11 @@ VoiceOfFashion is a static e-commerce website designed to showcase fashion produ
 ## Installation
 1. Clone the repository:
    ```
-   git clone https://github.com/inkesk-dozing/webD-5-Capstone.git
+   git clone https://github.com/inkesk-dozing/Capstone-HarshDevJha-Lab5.git
    ```
 2. Navigate to the project directory:
    ```
-   cd webD-5-Capstone
+   cd Capstone-HarshDevJha-Lab5
    ```
 3. Open `index.html` in a web browser to view the website.
 
